@@ -1,13 +1,25 @@
-# Aviral 
+# Aviral
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aviralansh.Aviralansh" />
 
 **```Self Learned programmer```** **```Linux <3```** **```Passionate Pentester```**
 
 Passionate developer with a love for coding and creating innovative solutions. Bringing ideas to life through clean and efficient code is my true passion. I constantly strive to expand my knowledge and stay up-to-date with the latest technologies. Let's build something amazing together!
+<br><br><br>
 
-### 🧰 Languages and Tools
+<h1>Connect?</h1>
+  <a href="mailto:avirald204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/aviral-dubey-3338a81b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://Aviralansh.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+<br><br><br>
 
+# Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -16,17 +28,12 @@ Passionate developer with a love for coding and creating innovative solutions. B
 <img align="left" alt="C++" width="30px" style="paddingright:10px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
-<br />
+<br><br><br>
 
 
-
-
-#
-
-### 📊 Stats
+# Stats
 
 ![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviralansh&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Aviralansh&theme=gruvbox&border_radius=4.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviralansh&hide_progress=compact&theme=gruvbox)
 
 
