@@ -33,7 +33,8 @@ Passionate developer with a love for coding and creating innovative solutions. B
 
 # Stats
 
-![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviralansh&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviralansh&hide_progress=compact&langs_count=3&theme=gruvbox)
+![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviralansh&show_icons=true&theme=midnight-purple&show=reviews,discussions_started)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviralansh&hide_progress=compact&langs_count=4&theme=midnight-purple)
+
 
 
