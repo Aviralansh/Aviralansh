@@ -3,7 +3,7 @@
 
 **```Self Learned programmer```** **```Linux <3```** **```Passionate Pentester```**
 
-Passionate developer with a love for coding and creating innovative solutions. Bringing ideas to life through clean and efficient code is my true passion. I constantly strive to expand my knowledge and stay up-to-date with the latest technologies. Let's build something amazing together!
+Passionate developer with a love for coding and creating innovative solutions. Bringing ideas to life through clean and efficient code is my true passion. I constantly strive to expand my knowledge and stay up-to-date with the latest technologies.
 <br><br><br>
 
 <h1>Connect?</h1>
