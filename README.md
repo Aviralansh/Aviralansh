@@ -8,7 +8,7 @@ Passionate developer with a love for coding and creating innovative solutions. B
 
 <h1>Connect?</h1>
   <a href="mailto:avirald204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://linkedin.com/in/aviral-dubey-3338a81b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
