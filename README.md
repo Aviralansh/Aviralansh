@@ -32,12 +32,12 @@ Passionate developer with a love for coding and creating innovative solutions. B
 
 # Stats
 
-<p><img align="center" src="https://github-readme-extended.vercel.app/api?username=Aviralansh&show_icons=true&theme=midnight-purple&hide=issues" alt=" "/><img align="left" src="https://github-readme-extended.vercel.app/api/top-langs?username=Aviralansh&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=css,html,Typescript" alt="Aviralansh" /></p> 
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=Aviralansh&show_icons=true&theme=midnight-purple&hide=issues" alt=" "/><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Aviralansh&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=css,html,Typescript" alt="Aviralansh" /></p> 
 
-[![Aviral's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aviralansh&theme=midnight&hide=issues)](https://github.com/stats-organization/github-stats-extended)
+[![Aviral's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aviralansh&theme=midnight-purple&hide=issues)](https://github.com/stats-organization/github-stats-extended)
 
-<!--[AVIRAL's GitHub stats](https://github-readme-extended.vercel.app/api?username=Aviralansh&show_icons=true&theme=transparent)
-[Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=Aviralansh&layout=compact&lang_count=5&theme=midnight-purple)](https://github.com/Aviralansh/github-readme-stats)
+<!--[AVIRAL's GitHub stats](https://github-readme-extended.vercel.app/api?username=Aviralansh&show_icons=true&theme=transparent)-->
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Aviralansh&layout=compact&lang_count=5&theme=midnight-purple)](https://github.com/Aviralansh/github-readme-extended)
 
 
 
